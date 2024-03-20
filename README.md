@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shanto-CS/Shanto-CS/blob/main/git%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Shanto Chaki Shuvo</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer major in cyber security from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto-cs&label=Profile%20views&color=0e75b6&style=flat" alt="shanto-cs" /> </p>
 
